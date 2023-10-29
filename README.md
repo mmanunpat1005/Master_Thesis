@@ -2,7 +2,8 @@
 
 ## Floods and Death Toll 
 Under the supervision of Professor Valerie Chavez-Demoulin, Professor Eric Jondeau, and Professor Linda Mhalla
-Grade 6.0
+
+Grade 6.0 (Highest grade)
 
 This thesis focuses on the intersection of climate change and wealth inequality, particularly in the context of floods. It draws inspiration from Chavez-Demoulin, Jondeau, and Mhalla’s work in 2021, highlighting how carbon emissions intensify climate change, resulting in more extreme flood events. Additionally, it explores how GDP per capita shapes flood severity, showing that regions with higher GDP tend to encounter less severe flood events. Utilizing robust quantitative methodologies, particularly the application of Extreme Value Theory encompassing Poisson and Generalized Pareto Distribution (GPD) models, this research draws upon data derived from reputable sources such as EM-DAT, World Bank, and IPCC databases. Based on IPCC scenarios, the projections yield these key observations.
 
